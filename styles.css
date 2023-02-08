@@ -1,0 +1,24 @@
+div h1, div h2, div h3, div h4, div p, div li {
+    color: rgb(9, 44, 77);
+}
+
+body {
+    background-color: rgb(241, 233, 210);
+}
+
+#Item_List {
+    background-color: rgb(243, 226, 179);
+}
+
+.box {
+    margin: 2em;
+    padding: 2em 2em;
+    border: thick outset rgb(9, 44, 77);
+}
+img {
+    float: left;
+    margin-right: 1em;
+}
+a {
+    text-decoration: none;
+}
